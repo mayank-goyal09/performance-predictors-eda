@@ -1,0 +1,14 @@
+gender,race,parent_education,math_score,reading_score,writing_score,average_score
+female,group D,associate's degree,77,89,98,88.0
+male,group E,associate's degree,100,100,93,97.66666666666669
+female,group D,master's degree,85,95,100,93.33333333333331
+female,group C,associate's degree,82,93,93,89.33333333333333
+female,group C,some college,77,90,91,86.0
+female,group B,master's degree,77,97,94,89.33333333333333
+male,group B,bachelor's degree,87,90,88,88.33333333333333
+female,group E,bachelor's degree,92,100,100,97.33333333333331
+male,group D,master's degree,84,89,90,87.66666666666667
+male,group E,some college,93,90,83,88.66666666666667
+female,group D,bachelor's degree,78,90,93,87.0
+male,group E,associate's degree,90,90,82,87.33333333333333
+female,group D,bachelor's degree,93,100,100,97.66666666666669
